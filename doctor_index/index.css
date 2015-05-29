@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;
+}
+a{text-decoration:none;
+}
+i, em{font-style:normal;
+}
+body{width:100%; height:100%; background:#00FF99; 
+}
+.main{width:100%; height:100%; 
+}
+.main_box{width:100%; min-height:580px; overflow:hidden;
+}
+.logo{width:240px; height:240px; margin:46px auto 63px; background:url(../doctor_index/640_640.jpg) left top no-repeat; background-size: 240px 240px;
+}
+.ad_btn, .ios_btn{width:257px; height:56px; line-height:56px; margin:0 auto; border-radius:5px; display:block; background:#fff; 
+}
+.ad_btn:hover, .ad_btn:active, .ios_btn:hover, .iso_btn:active{background:#f1f1f1;
+}
+.main_box .name{font-size:16px; color:#494949; font-family:'Microsoft YaHei';
+}
+.ios_btn{margin-top:19px;
+}
+.ad_btn .ad{float:left; width:27px; height:32px; background:url(../doctor_index/ad_bg.png) left top no-repeat; background-size: 27px 32px; margin:13px 30px 0 25px;
+}
+.ios_btn .ios{float:left; width:25px; height:29px; background:url(../doctor_index/ios_bg.png) left top no-repeat; background-size: 25px 29px; margin:10px 35px 0 23px;
+}
+.main_box .title{width:100%; text-align:center; line-height:30px; font-size:20px; color:#FFF; font-family:'Microsoft YaHei'; padding:60px 0 10px;
+}
+.main_box .green{font-size:22px; color:#a6d950;
+}
+.main_box .content, .main_box .copyright{width:100%; line-height:14px; font-size:10px; color:#FFF; text-align:center; font-family:'Microsoft YaHei'; padding-bottom:97px;
+}
+.main_box .copyright{padding-bottom:0;
+}
