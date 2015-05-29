@@ -26,7 +26,7 @@ body{width:100%; height:100%; background:#00FF99;
 }
 .ios_btn .ios{float:left; width:25px; height:29px; background:url(../doctor_index/ios_bg.png) left top no-repeat; background-size: 25px 29px; margin:10px 35px 0 23px;
 }
-.main_box .title{width:100%; text-align:center; line-height:30px; font-size:20px; color:#FFF; font-family:'Microsoft YaHei'; padding:60px 0 10px;
+.main_box .title{width:100%; text-align:center; line-height:30px; font-size:20px; color:red; font-family:'Microsoft YaHei'; padding:60px 0 10px;
 }
 .main_box .green{font-size:22px; color:#a6d950;
 }
