@@ -118,3 +118,9 @@ public static int leastMonotoSquence(int[] seq){
     return Math.max(max1, max2);
 }
 ```
+
+# 19题
+D
+
+# 21题
+C
