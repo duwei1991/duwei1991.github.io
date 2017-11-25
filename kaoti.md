@@ -1,14 +1,23 @@
-2题 109
-3题 编译出错
-4题 nowcoderhello
-5题 8
-6题 我是构造块 我是构造块 我是静态块 我是构造块
+# 2题 109
 
-9题 lo W
+# 3题 编译出错
 
-11题 129
+# 4题 nowcoderhello
 
-14题
+# 5题 
+8
+
+# 6题 
+我是构造块 我是构造块 我是静态块 我是构造块
+
+# 9题 
+lo W
+
+# 11题 
+129
+
+# 14题
+``` java
 public static int countPoints(int rSquare)
 {
     double r = Math.abs(Math.sqrt(rSquare));
@@ -26,8 +35,10 @@ public static int countPoints(int rSquare)
     }
     return count;
 }
+```
 
-15题
+# 15题
+``` java
 public static int leastMajorityMultiple(int a, int b, int c, int d, int e)
 {
     int count = 0;
@@ -48,8 +59,10 @@ public static int leastMajorityMultiple(int a, int b, int c, int d, int e)
     }
     return i;
 }
+``` 
 
-16题
+# 16题
+``` java
 public static int leastMonotoSquence(int[] seq){
     if (seq.length <= 0)
     {
@@ -101,3 +114,4 @@ public static int leastMonotoSquence(int[] seq){
     }
     return Math.max(max1, max2);
 }
+```
